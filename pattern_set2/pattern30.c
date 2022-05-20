@@ -1,12 +1,19 @@
 #include<stdio.h>
 int main()
 {
-    int i,j,n=5;
-    for(i=1;i<=n;i++)
+    int i,j,n=5,c;
+    for(i=0;i<n;i++)
     {
-        for(j=1;j<=i;j++)
+        for(j=0;j<=i;j++)
         {
-
+            if(i==0 || j==0)
+                c=1;
+            else{
+                c=(c*(i-j+1))/j;
+            
+            }
+            printf("%d ",c);
         }
+        printf("\n");
     }
 }
