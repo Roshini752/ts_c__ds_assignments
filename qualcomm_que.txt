@@ -1,0 +1,37 @@
+Self-Introduction
+bench project and what are used in project
+b.tech project and the whole process
+rating my self in c,ds,python
+pallindrome program in c and python
+questions on above program how to debug 
+compilation stages
+static and dynamic library
+creating library
+ds question on tress 
+	- question on height of the tree
+	-inorder,preorder,postorder
+makefiles -> 
+object of makefile
+
+all : gcc main.o f1.o f2.o
+ in this what 'all' meant for  
+
+need to explain everything and everyline
+
+
+
+2g,3g,digital communication,tcpip layers
+
+
+static library will load at the time of linker stage whenever we compile the code
+and dinamic library is loaded whenever the executable file is loaded
+
+
+
+
+
+
+
+
+
+

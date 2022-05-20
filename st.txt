@@ -1,0 +1,29 @@
+random = 9
+
+6
+lessthan  
+8less
+10
+greater
+9
+
+var = random.choice(range(1,20))
+
+while(1)
+
+n = int(input())
+comp(n,var)
+count++
+
+if(count>5)
+{
+
+Try typedef 
+what will happwn when we type def outer struture but not inner viseversa
+what will happen when we use pointer inside the structure not outside
+
+
+
+Experience in executing Smoke Testing, Regression Testing, Functional Testing.
+Experience in Automation Testing and manual testing on several 
+Applications like User Interface Testing, Multimedia applications is a plus.

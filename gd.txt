@@ -1,0 +1,45 @@
+Questions on Git1. a. What is Git?    
+ b. What are the types of version control systems? 
+Explain the differences.     
+c. What are the features of Git?
+2. a. Who is the author of Git?     
+b. How do we initialize git in          
+ i. Empty directory           
+ii. New directory          
+ii. Existing directory
+3. What is the purpose of giving a commit text or description in git commit? 
+Is it mandatory?
+4. Explain all the git commands used to push a new file in the directory to github.
+5. What information can you draw from git log and git show?  
+ 6. a. When do we use git pull, git fetch and git merge?    
+b. How do we delete local branches?
+
+DS programs:Write a Program to find the middle element of a linked list.
+write a program to reverse a SLL
+
+C Programs:program to find multiples of 4 without using multiply operator
+	How can you print hello without using semicolon at the end of printf statement
+C Theory:
+Int a=-3,b=2,c=0,m; 
+m=++a || ++b||++c;  // m= 1 a = -2 b = 2 c = 0 
+m= ++a && ++b||++c; // m = 1 a = -1 b = 3 c = 0
+
+
+
+Print the values of a,b,c and m in both the cases?
+struct data{    int num1;    int num2;};
+struct data ptr;
+
+struct data *data_pointer;
+data_pointer = &ptr + 1    //What is the value of data_pointer 
+DS Theory:question on trees 	
+-Explain inorder,preorder,postorder with an example 
+Why return type of malloc is void*?
+OS :1.IPC mechanisams //sindhu
+2.synchronization in os
+3.what is a process? and What is a thread
+4. What are synchronization primitives?
+5. What is spinlock?
+6. Difference between Spinlock and mutex?
+7.what is scheduling explain
+8.what is mutex
